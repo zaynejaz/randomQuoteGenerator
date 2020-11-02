@@ -3,11 +3,11 @@ $(document).ready(function(){
     var quoteSource=[
         {
             quote:"Quote 1 goes here",
-            name:"reference 1"
+            name:"reference name 1"
         },
         {
             quote:"Quote 2 goes here",
-            name:"reference 2"
+            name:"reference name 2"
         }
     ];
     
@@ -32,7 +32,7 @@ $(document).ready(function(){
             quoteContainer.fadeOut(timeAnimation, 
                 function(){
                     quoteContainer.html('');
-                    quoteContainer.append('<p>'+newQuoteText+'</p>'+'<p id="quoteGenius">'+'-								'+newQuoteGenius+'</p>');
+                    quoteContainer.append('<p>'+newQuoteText+'</p>'+'<p id="quoteGenius">'+'								'+newQuoteGenius+'</p>');
                     //fadein animation
                     quoteContainer.fadeIn(timeAnimation);
                 });  

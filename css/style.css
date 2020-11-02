@@ -1,6 +1,8 @@
 body{
 	font-family: 'Roboto', sans-serif;
-	color: #0a3347;
+    color: #ffffff;
+    font-weight: 400;
+    background-color: #283040;
 }
 
 #container{
@@ -10,51 +12,67 @@ body{
 	width:50%;
 }
 #container h2{
-	color:#0a3347;
+	color:#48556e;
 	text-align:center;
 }
 
 #quoteContainer{
 	width:75%;
-	background: #ffffff;
+	background: none;
 	padding:10px;
 	margin:30px auto;
 	text-align: center;
     height:70px;
 }
+
 #buttonContainer{
 	width: 100%;
 	text-align: center;
 }
 #quoteButton{
 	font-family: 'Roboto', sans-serif;
-	color:#22a2e1;
+	color:#ffffff79;
 	font-weight: normal;
-	border:2px solid #22a2e1;
-	width:200px;
+	border:1px solid #22a1e16e;
+	width: 200px;
 	margin-top: 10px;
-	padding:5px;
+	padding: 6px;
 	text-decoration: none;
-	text-align: center;
+    text-align: center;
+    border-top-left-radius: 40px;
+    border-top-right-radius: 40px;
+    border-bottom-right-radius: 40px;
+    border-bottom-left-radius: 40px;
+    background: #283040;
+    box-shadow:  8px 8px 14px #222936, 
+    -8px -8px 14px #2e374a;
+    transition: color .3s ease-in-out;                
 }
 
 #quoteButton:hover{
 	cursor:pointer;
-	color: #ffffff;	
-	background:#0099cc;
+	color: #ffffffb6;	
+    transition: color .3s ease-in-out;
 }
 #quoteButton:active{
-	cursor: pointer;
+    cursor: pointer;
+	color: #ffffff;	
+	border:1px solid #22a1e1;
+    background: linear-gradient(145deg, #242b3a, #2b3344);
+    box-shadow:  -8px -8px 14px #222936, 
+    8px 8px 14px #2e374a;
 }
 #quoteButton{
-	display: inline-block;
-}
-#quoteGenius{
-	font-style: italic;
-	font-weight: 700;
-	text-align: center;
+    display: inline-block;
 }
 
+#quoteGenius{
+    text-transform: capitalize;
+    color: #22a1e16e;
+	font-weight: 300;
+    text-align: center;
+    padding-top: 15px;
+}
 
 /*MEDIA QUERIES*/
 @media screen and(max-width:760px){
