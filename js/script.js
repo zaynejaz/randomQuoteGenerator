@@ -30,7 +30,7 @@ $(document).ready(function(){
             name:"Lindsay Abrams"
         },
         {
-            quote:"We document life so much, we forget to cherish the moments we have",
+            quote:"We document life so much, <br>we forget to cherish the moments we have",
             name:"Anonymous"
         },
         {
@@ -38,7 +38,7 @@ $(document).ready(function(){
             name:"Anonymous"
         },
         {
-            quote:"I don't see my glass half empty, or half full. I'm just thankful to have a glass",
+            quote:"I don't see my glass half empty, or half full.<br>I'm just thankful to have a glass",
             name:"Nick Scott"
         },
         {
@@ -50,7 +50,7 @@ $(document).ready(function(){
             name:"Sun Tzu"
         },
         {
-            quote:"Know thy self, know thy enemy. A thousand battles, a thousand victories.",
+            quote:"Know thy self, know thy enemy.<br>A thousand battles, a thousand victories.",
             name:"Sun Tzu"
         },
         {
@@ -58,11 +58,11 @@ $(document).ready(function(){
             name:"Sun Tzu"
         },
         {
-            quote:"An action comitted in anger is an action doomed to failure",
+            quote:"An action comitted in anger <br>is an action doomed to failure",
             name:"Gengis Khan"
         },
         {
-            quote:"If you're afraid - don't do it, - if you're doing it - don't be afraid!”",
+            quote:"If you're afraid - don't do it, - <br>if you're doing it - don't be afraid!”",
             name:"Gengis Khan"
         },
         {
@@ -70,35 +70,35 @@ $(document).ready(function(){
             name:"Gengis Khan"
         },
         {
-            quote:"A person's a person, no matter how small",
+            quote:"A person's a person, <br>no matter how small",
             name:"Dr. Seuss"
         },
         {
-            quote:"Don't cry because it's over. Smile because it happened",
+            quote:"Don't cry because it's over. <br>Smile because it happened",
             name:"Dr. Seuss"
         },
         {
-            quote:"Today you are you! That is truer than true! There is no one alive who is you-er than you!",
+            quote:"Today you are you! That is truer than true! <br>There is no one alive who is you-er than you!",
             name:"Dr. Seuss"
         },
         {
-            quote:"Thought I wouldn't when I would, would when I wouldn't, I still did it for the reason everybody said I couldn't",
+            quote:"Thought I wouldn't when I would, would when I wouldn't, <br>I still did it for the reason everybody said I couldn't",
             name:"Seth B. Binzer"
         },
         {
-            quote:"Greed, for the lack of a better word, is good",
+            quote:"Greed, <br>for the lack of a better word, <br>is good",
             name:"Gordon GekoK"
         },
         {
-            quote:"Keep your friends close, but your enemies closer",
+            quote:"Keep your friends close, <br>but your enemies closer",
             name:"Sun Tzu"
         },
         {
-            quote:"Logic is the beginning of wisdom, not the end",
+            quote:"Logic is the beginning of wisdom, <br>not the end",
             name:"Spock"
         },
         {
-            quote:"Things are only impossible until they're not",
+            quote:"Things are only impossible <br>until they're not",
             name:"Jean-Luc Picard"
         },
         {
@@ -106,19 +106,19 @@ $(document).ready(function(){
             name:"Spock"
         },
         {
-            quote:"It is possible to commit no errors and still lose. That is not a weakness. That is life",
+            quote:"It is possible to commit no errors and still lose. <br>That is not a weakness. <br>That is life",
             name:"Jean-Luc Picard"
         },
         {
-            quote:"Without freedom of choice there is no creativity",
+            quote:"Without freedom of choice <br>there is no creativity",
             name:"James T. Kirk"
         },
         {
-            quote:"You can use logic to justify almost anything. That's its power. And its flaw",
+            quote:"You can use logic to justify almost anything.<br>That's its power.<br>And its flaw",
             name:"Cathryn Janeway"
         },
         {
-            quote:"In my experience there is no such thing as luck",
+            quote:"In my experience<br>there is no such thing as luck",
             name:"Obi-Wan Kenobi"
         },
         {
@@ -126,75 +126,75 @@ $(document).ready(function(){
             name:"Qui-Gon Jinn"
         },
         {
-            quote:"Do. Or do not. There is no try",
+            quote:"Do. Or do not.<br>There is no try",
             name:"Yoda"
         },
         {
-            quote:"The purpose of our lives is to be happy",
+            quote:"The purpose of our lives <br>is to be happy",
             name:"Dali Lama"
         },
         {
-            quote:"Get busy living or get busy dying",
-            name:"Steven Kind"
+            quote:"Get busy living <br>or get busy dying",
+            name:"Steven King"
         },
         {
-            quote:"You only live once, but if you do it right, once is enough",
+            quote:"You only live once, <br>but if you do it right, <br>once is enough",
             name:"Mae West"
         },
         {
-            quote:"Not how long, but how well you have lived is the main thing",
+            quote:"Not how long, <br>but how well you have lived <br>is the main thing",
             name:"Seneca"
         },
         {
-            quote:"The unexamined life is not worth living",
+            quote:"The unexamined life <br>is not worth living",
             name:"Scoretes"
         },
         {
-            quote:"Life is not a problem to be solved, but a reality to be experienced",
+            quote:"Life is not a problem to be solved, <br>but a reality to be experienced",
             name:"Soren Kierkegaard"
         },
         {
-            quote:"You never really learn much from hearing yourself speak",
+            quote:"You never really learn much <br>from hearing yourself speak",
             name:"George Clooney"
         },
         {
-            quote:"Life is really simple, but men insist on making it complicated",
+            quote:"Life is really simple, <br>but men insist on making it complicated",
             name:"Confucious"
         },
         {
-            quote:"Life is like a coin. You can spend it any way you wish, but you only spend it once",
+            quote:"Life is like a coin. <br>You can spend it any way you wish, <br>but you only spend it once",
             name:"Lilian Dickson"
         },
         {
-            quote:"In three words I can sum up everything I’ve learned about life: It goes on.",
+            quote:"In three words <br>I can sum up everything I’ve learned about life: <br>It goes on.",
             name:"Robert Frost"
         },
         {
-            quote:"The healthiest response to life is joy",
+            quote:"The healthiest response to life <br>is joy",
             name:"Deepak Chopra"
         },
         {
-            quote:"Health is the greatest gift, contentment the greatest wealth, faithfulness the best relationship",
-            name:"Buddhda"
+            quote:"Health is the greatest gift, <br>contentment the greatest wealth, <br>faithfulness the best relationship",
+            name:"Buddha"
         },
         {
-            quote:"Life would be tragic if it weren’t funny",
+            quote:"Life would be tragic <br>if it weren’t funny",
             name:"Steven Hawking"
         },
         {
-            quote:"Life is what we make it, always has been, always will be",
+            quote:"Life is what we make it, <br>always has been, <br>always will be",
             name:"Grandma Moses"
         },
         {
-            quote:"Life’s tragedy is that we get old too soon and wise too late",
+            quote:"Life’s tragedy is that <br>we get old too soon <br>and wise too late",
             name:"Benjamin Franklin"
         },
         {
-            quote:"Life is about making an impact, not making an income",
+            quote:"Life is about making an impact, <br>not making an income",
             name:"Kevin Kruse"
         },
         {
-            quote:"The two most important days in your life are the day you are born and the day you find out why",
+            quote:"The two most important days in your life are <br>the day you are born and <br>the day you find out why",
             name:"Mark Twain"
         },
         {
@@ -210,11 +210,11 @@ $(document).ready(function(){
             name:"Neil Armstrong"
         },
         {
-            quote:"Live as if you were to die tomorrow. Learn as if you were to live forever",
+            quote:"Live as if you were to die tomorrow. <br>Learn as if you were to live forever",
             name:"Mahatma Gandhi"
         },
         {
-            quote:"When you cease to dream you cease to live",
+            quote:"When you cease to dream <br>you cease to live",
             name:"Malcom Forbes"
         },
         {
@@ -226,15 +226,15 @@ $(document).ready(function(){
             name:"J K Rowling"
         },
         {
-            quote:"The best way to predict your future is to create it",
+            quote:"The best way to predict your future <br>is to create it",
             name:"Abraham Lincoln"
         },
         {
             quote:"You must expect great things of yourself before you can do them",
-            name:"Michael Jorda"
+            name:"Michael Jordan"
         },
         {
-            quote:"There are no mistakes, only opportunities",
+            quote:"There are no mistakes, <br>only opportunities",
             name:"Tina Fey"
         },
         {
@@ -246,27 +246,27 @@ $(document).ready(function(){
             name:"Ellen DeGeneres"
         },
         {
-            quote:"Do not dwell in the past, do not dream of the future, concentrate the mind on the present moment",
+            quote:"Do not dwell in the past, <br>do not dream of the future, <br>concentrate the mind on the present moment",
             name:"Buddha"
         },
         {
-            quote:"Life is a dream for the wise, a game for the fool, a comedy for the rich, a tragedy for the poor",
+            quote:"Life is a dream for the wise, <br>a game for the fool, <br>a comedy for the rich, <br>a tragedy for the poor",
             name:"Sholom Aleichem"
         },
         {
-            quote:"If you love life, don’t waste time, for time is what life is made up of",
+            quote:"If you love life, <br>don’t waste time, <br>for time is what life is made up of",
             name:"Bruce lee"
         },
         {
-            quote:"When one door closes, another opens; but we often look so long and so regretfully upon the closed door that we do not see the one that has opened for us",
+            quote:"When one door closes, <br>another opens; <br>but we often look so long and so regretfully upon the closed door that we do not see the one that has opened for us",
             name:"Alexander Graham Bell"
         },
         {
-            quote:"Never take life seriously. Nobody gets out alive anyway",
+            quote:"Never take life seriously. <br>Nobody gets out alive anyway",
             name:"Anonymous"
         },
         {
-            quote:"Be happy for this moment. This moment is your life",
+            quote:"Be happy for this moment. <br>This moment is your life",
             name:"Omar Khayyam"
         },
         {
@@ -278,7 +278,7 @@ $(document).ready(function(){
             name:"Derek Jeter"
         },
         {
-            quote:"Don’t be afraid to fail. It’s not the end of the world, and in many ways, it’s the first step toward learning something and getting better at it",
+            quote:"Don’t be afraid to fail. <br>It’s not the end of the world, and in many ways, it’s the first step toward learning something and getting better at it",
             name:"Jon Hamm"
         },
         {
@@ -290,15 +290,15 @@ $(document).ready(function(){
             name:"Andy Dufresne"
         },
         {
-            quote:"Happy is the man who can make a living by his hobby",
+            quote:"Happy is the man <br>who can make a living by his hobby",
             name:"George Bernard Shaw"
         },
         {
-            quote:"Surround yourself with people who make you a better person",
+            quote:"Surround yourself with people <br>who make you a better person",
             name:"Karl Marx"
         },
         {
-            quote:"ou will meet two kinds of people in life: ones who build you up and ones who tear you down. But in the end, you’ll thank them both",
+            quote:"You will meet two kinds of people in life: ones who build you up and ones who tear you down. But in the end, you’ll thank them both",
             name:"Anonymous"
         },
         {
@@ -310,27 +310,27 @@ $(document).ready(function(){
             name:"H. Jackson Brown Jr."
         },
         {
-            quote:"Today, you have 100% of your life left",
+            quote:"Today, you have <br>100% of your life left",
             name:"Tom Landry"
         },
         {
-            quote:"Nobody who ever gave his best regretted it",
+            quote:"Nobody who ever <br>gave his best regretted it",
             name:"George Halas"
         },
         {
-            quote:"Make each day your masterpiece",
+            quote:"Make each day <br>your masterpiece",
             name:"John Wooden"
         },
         {
-            quote:"You can’t put a limit on anything. The more you dream, the farther you get",
+            quote:"You can’t put a limit on anything. <br>The more you dream, <br>the farther you get",
             name:"Michael Phelps"
         },
         {
-            quote:"Go fuck up on purpose and liberate yourself",
+            quote:"Go fuck up on purpose <br>and liberate yourself",
             name:"Gary Vaynerchuck"
         },
         {
-            quote:"Let's get one thing clear! I don't give a fuck about you guys... But I do care!",
+            quote:"Let's get one thing clear! <br>I don't give a fuck about you guys... <br>But I do care!",
             name:"Zayn Ejaz"
         }
         
