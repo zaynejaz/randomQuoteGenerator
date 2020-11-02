@@ -1,0 +1,64 @@
+body{
+	font-family: 'Roboto', sans-serif;
+	color: #0a3347;
+}
+
+#container{
+	width:800px;
+	margin:50px auto;
+	padding: 20px;
+	width:50%;
+}
+#container h2{
+	color:#0a3347;
+	text-align:center;
+}
+
+#quoteContainer{
+	width:75%;
+	background: #ffffff;
+	padding:10px;
+	margin:30px auto;
+	text-align: center;
+    height:70px;
+}
+#buttonContainer{
+	width: 100%;
+	text-align: center;
+}
+#quoteButton{
+	font-family: 'Roboto', sans-serif;
+	color:#22a2e1;
+	font-weight: normal;
+	border:2px solid #22a2e1;
+	width:200px;
+	margin-top: 10px;
+	padding:5px;
+	text-decoration: none;
+	text-align: center;
+}
+
+#quoteButton:hover{
+	cursor:pointer;
+	color: #ffffff;	
+	background:#0099cc;
+}
+#quoteButton:active{
+	cursor: pointer;
+}
+#quoteButton{
+	display: inline-block;
+}
+#quoteGenius{
+	font-style: italic;
+	font-weight: 700;
+	text-align: center;
+}
+
+
+/*MEDIA QUERIES*/
+@media screen and(max-width:760px){
+	#quoteButton,#addNew{
+		display: block;
+	}
+}
