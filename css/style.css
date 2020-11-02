@@ -74,8 +74,8 @@ body{
     padding-top: 15px;
 }
 
-/*MEDIA QUERIES*/
-@media screen and(max-width:760px){
+/*====================MEDIA QUERIES====================*/
+@media screen and(max-width:768px){
 	#quoteButton,#addNew{
 		display: block;
 	}
