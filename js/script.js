@@ -330,6 +330,34 @@ $(document).ready(function(){
             name:"Gary Vaynerchuck"
         },
         {
+            quote:"A wise leader allows his people their ways",
+            name:"Kublai Khan"
+        },
+        {
+            quote:"it's better to be hated for who you are <br>than loved for who you are not",
+            name:"Andre Gide"
+        },
+        {
+            quote:"untrue by an inch,<br> untrue by a mile",
+            name:"Bayan of the Baarin"
+        },
+        {
+            quote:"A man wishing to be unhappy <br>finds manny ways to prove his cause",
+            name:"Bayan of the Baarin"
+        },
+        {
+            quote:"The inability to sleep <br>is the curse of the aged <br>and the guilty",
+            name:"Bayan of the Baarin"
+        },
+        {
+            quote:"If the Gods are watching, <br>we might as well put on a good show",
+            name:"Bayan of the Baarin"
+        },
+        {
+            quote:"choose wisdom over wrath",
+            name:"Carl Reindolf Agyeman Mensah"
+        },
+        {
             quote:"Let's get one thing clear! <br>I don't give a fuck about you guys... <br>But I do care!",
             name:"Zayn Ejaz"
         }
