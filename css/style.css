@@ -1,40 +1,59 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Condensed:wght@300;400;700&display=swap');
+
+:root {
+  --neon-text: #22a1e154;
+}
+
 body{
-	font-family: 'Roboto', sans-serif;
+	font-family: 'Roboto Condensed', 'Roboto', sans-serif;
     color: #ffffff;
     font-weight: 400;
     background-color: #283040;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	height: 100vh;
 }
 
 #container{
+	font-family: 'Roboto Condensed', 'Roboto', sans-serif;
 	width:800px;
 	margin:50px auto;
-	padding: 20px;
-	width:50%;
+	width:90%;
 }
 #container h2{
+	font-family: 'Roboto Condensed', 'Roboto', sans-serif;
 	color:#48556e;
+	height: auto;
 	text-align:center;
 }
 
 #quoteContainer{
+	font-family: 'Roboto Condensed', 'Roboto', sans-serif;
 	width:75%;
 	background: none;
-	padding:10px;
 	margin:30px auto;
 	text-align: center;
-    height:70px;
+    height:auto;
+    min-height:70px;
+	width:90%;
+	max-width:550px;
 }
 
 #buttonContainer{
-	width: 100%;
+	font-family: 'Roboto Condensed', 'Roboto', sans-serif;
+	display: flex;
 	text-align: center;
+	align-items: revert;
+	width: 100%;
 }
 #quoteButton{
-	font-family: 'Roboto', sans-serif;
+	font-family: 'Roboto Condensed', 'Roboto', sans-serif;
 	color:#ffffff79;
 	font-weight: normal;
 	border:1px solid #22a1e16e;
 	width: 200px;
+	margin: auto;
 	margin-top: 10px;
 	padding: 6px;
 	text-decoration: none;
@@ -63,20 +82,46 @@ body{
     8px 8px 14px #2e374a;
 }
 #quoteButton{
+	font-family: 'Roboto Condensed', 'Roboto', sans-serif;
     display: inline-block;
 }
 
 #quoteGenius{
-    text-transform: capitalize;
-    color: #22a1e16e;
+	font-family: 'Roboto Condensed', 'Roboto', sans-serif;
+    color: var(--neon-text);
 	font-weight: 300;
+	font-style: italic;
+    text-transform: capitalize;
     text-align: center;
     padding-top: 15px;
+	animation: glitch 1.5s infinite alternate;
 }
+#quoteGenius::-moz-selection {
+	color: var(--neon-text-color);
+}
+#quoteGenius:focus {
+	outline: none;
+}
+
+@keyframes glitch { 
+	0%, 19%, 21%, 23%, 25%, 54%, 56%, 100% {
+		text-shadow: 
+			0.0rem -0.0rem 0rem var(--neon-text), 
+			0.0rem 0.0rem 0rem var(--neon-text),
+			0 0 0rem var(--neon-text), 0 0 0rem var(--neon-text),
+			0 0 0rem var(--neon-text), 0 0 0rem var(--neon-text),
+			0 0 0rem var(--neon-text);
+	} 
+	20%, 24%, 55% {
+		text-shadow: none;
+		box-shadow: none;
+  }
+}
+
 
 /*====================MEDIA QUERIES====================*/
 @media screen and(max-width:768px){
-	#quoteButton,#addNew{
+	#quoteButton, #addNew{
 		display: block;
 	}
 }
