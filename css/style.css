@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Roboto+Condensed:wght@300;400;700&display=swap');
 
 :root {
-  --neon-text: #22a1e154;
+  --neon-text: #22a2e1;
 }
 
 body{
@@ -94,7 +94,7 @@ body{
     text-transform: capitalize;
     text-align: center;
     padding-top: 15px;
-	animation: glitch 1.5s infinite alternate;
+	/* animation: glitch 1.5s infinite alternate; */
 }
 #quoteGenius::-moz-selection {
 	color: var(--neon-text-color);
@@ -102,7 +102,7 @@ body{
 #quoteGenius:focus {
 	outline: none;
 }
-
+/* 
 @keyframes glitch { 
 	0%, 19%, 21%, 23%, 25%, 54%, 56%, 100% {
 		text-shadow: 
@@ -116,7 +116,7 @@ body{
 		text-shadow: none;
 		box-shadow: none;
   }
-}
+} */
 
 
 /*====================MEDIA QUERIES====================*/
