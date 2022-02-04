@@ -666,6 +666,14 @@ $(document).ready(function () {
             name: "Mahatma Gandhi"
         },
         {
+            quote: "The way to get started is to quit talking and begin doing",
+            name: "Walt Disney"
+        },
+        {
+            quote: "If you set your goals ridiculously high and it's a failure, you will fail above everyone else's success.",
+            name: "James Cameron"
+        },
+        {
             quote: "Let's get one thing clear!<br>I don't give a fuck about you guys...<br>But I do care!",
             name: "Zayn Ejaz"
         }
