@@ -131,7 +131,7 @@ $(document).ready(function () {
         },
         {
             quote: "The purpose of our lives <br>is to be happy",
-            name: "Dali Lama"
+            name: "Dalai Lama"
         },
         {
             quote: "Get busy living <br>or get busy dying",
@@ -672,6 +672,10 @@ $(document).ready(function () {
         {
             quote: "If you set your goals ridiculously high and it's a failure, you will fail above everyone else's success.",
             name: "James Cameron"
+        },
+        {
+            quote: "Money and success don’t change people; they merely amplify what is already there.”",
+            name: "Will Smith"
         },
         {
             quote: "Let's get one thing clear!<br>I don't give a fuck about you guys...<br>But I do care!",
