@@ -682,6 +682,10 @@ $(document).ready(function () {
             name: "Anonymous",
         },
         {
+            quote: "Nothing is impossible to a willing heart.",
+            name: "Anonymous",
+        },
+        {
             quote: "Let's get one thing clear!<br>I don't give a fuck about you guys...<br>But I do care!",
             name: "Zayn Ejaz"
         }
