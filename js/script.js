@@ -678,6 +678,10 @@ $(document).ready(function () {
             name: "Will Smith"
         },
         {
+            quote: "The early bird gets the worm, but the second mouse gets the cheese.",
+            name: "Anonymous",
+        },
+        {
             quote: "Let's get one thing clear!<br>I don't give a fuck about you guys...<br>But I do care!",
             name: "Zayn Ejaz"
         }
