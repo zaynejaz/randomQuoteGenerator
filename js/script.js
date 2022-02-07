@@ -698,6 +698,10 @@ $(document).ready(function () {
             name: "Anonymous",
         },
         {
+            quote: "A ship in harbor is safe, but that’s not why ships are built.",
+            name: "Anonymous",
+        },
+        {
             quote: "Let's get one thing clear!<br>I don't give a fuck about you guys...<br>But I do care!",
             name: "Zayn Ejaz"
         }
