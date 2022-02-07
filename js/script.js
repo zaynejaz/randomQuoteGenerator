@@ -694,6 +694,10 @@ $(document).ready(function () {
             name: "Anonymous",
         },
         {
+            quote: "Courage is not the absence of fear; it is the conquest of it.",
+            name: "Anonymous",
+        },
+        {
             quote: "Let's get one thing clear!<br>I don't give a fuck about you guys...<br>But I do care!",
             name: "Zayn Ejaz"
         }
