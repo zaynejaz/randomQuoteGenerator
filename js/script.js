@@ -686,6 +686,10 @@ $(document).ready(function () {
             name: "Anonymous",
         },
         {
+            quote: "Don’t worry about money. The best things in life are free.",
+            name: "Anonymous",
+        },
+        {
             quote: "Let's get one thing clear!<br>I don't give a fuck about you guys...<br>But I do care!",
             name: "Zayn Ejaz"
         }
