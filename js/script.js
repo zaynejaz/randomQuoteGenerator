@@ -702,6 +702,10 @@ $(document).ready(function () {
             name: "Anonymous",
         },
         {
+            quote: "If you don't like the road you're walking, start paving another one.",
+            name: "Dolly Parton",
+        },
+        {
             quote: "Let's get one thing clear!<br>I don't give a fuck about you guys...<br>But I do care!",
             name: "Zayn Ejaz"
         }
