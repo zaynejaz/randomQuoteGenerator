@@ -706,6 +706,10 @@ $(document).ready(function () {
             name: "Dolly Parton",
         },
         {
+            quote: "Your time is limited, so don't waste it living someone else's life.",
+            name: "Steve Jobs",
+        },
+        {
             quote: "Let's get one thing clear!<br>I don't give a fuck about you guys...<br>But I do care!",
             name: "Zayn Ejaz"
         }
