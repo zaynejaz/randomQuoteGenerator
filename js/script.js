@@ -714,6 +714,10 @@ $(document).ready(function () {
             name: "Banksy",
         },
         {
+            quote: "All we have is now.",
+            name: "Anonymous",
+        },
+        {
             quote: "Let's get one thing clear!<br>I don't give a fuck about you guys...<br>But I do care!",
             name: "Zayn Ejaz"
         }
