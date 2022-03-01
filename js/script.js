@@ -710,6 +710,10 @@ $(document).ready(function () {
             name: "Steve Jobs",
         },
         {
+            quote: "When you get tired, learn to rest, not to quit.",
+            name: "Banksy",
+        },
+        {
             quote: "Let's get one thing clear!<br>I don't give a fuck about you guys...<br>But I do care!",
             name: "Zayn Ejaz"
         }
