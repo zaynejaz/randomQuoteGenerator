@@ -718,6 +718,10 @@ $(document).ready(function () {
             name: "Anonymous",
         },
         {
+            quote: "When you want to live a happy life, tie it to a goal, not to people or objects.",
+            name: "Albert Einstein",
+        },
+        {
             quote: "Let's get one thing clear!<br>I don't give a fuck about you guys...<br>But I do care!",
             name: "Zayn Ejaz"
         }
