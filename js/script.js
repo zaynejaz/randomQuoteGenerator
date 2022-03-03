@@ -722,9 +722,13 @@ $(document).ready(function () {
             name: "Albert Einstein",
         },
         {
+            quote: "Whoever is happy will make others happy too.",
+            name: "Anne Frank",
+        },
+        {
             quote: "Let's get one thing clear!<br>I don't give a fuck about you guys...<br>But I do care!",
             name: "Zayn Ejaz"
-        }
+        },
 
     ];
 
