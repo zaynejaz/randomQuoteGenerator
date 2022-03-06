@@ -730,6 +730,10 @@ $(document).ready(function () {
             name: "Andy Bernard",
         },
         {
+            quote: "I have cause. It is beCAUSE I hate him.",
+            name: 'Michael Scott',
+        },
+        {
             quote: "Let's get one thing clear!<br>I don't give a fuck about you guys...<br>But I do care!",
             name: "Zayn Ejaz"
         },
