@@ -726,6 +726,10 @@ $(document).ready(function () {
             name: "Anne Frank",
         },
         {
+            quote: "I wish there was a way to know you're in the good old days, before you've actually left them.",
+            name: "Andy Bernard",
+        },
+        {
             quote: "Let's get one thing clear!<br>I don't give a fuck about you guys...<br>But I do care!",
             name: "Zayn Ejaz"
         },
