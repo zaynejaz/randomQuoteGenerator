@@ -731,7 +731,11 @@ $(document).ready(function () {
         },
         {
             quote: "I have cause. It is beCAUSE I hate him.",
-            name: 'Michael Scott',
+            name: "Michael Scott",
+        },
+        {
+            quote: "Would I rather be feared or loved? Easy. Both. I want people to be afraid of how much they love me.",
+            name: "Michael Scott",
         },
         {
             quote: "Let's get one thing clear!<br>I don't give a fuck about you guys...<br>But I do care!",
