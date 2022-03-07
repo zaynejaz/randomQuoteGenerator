@@ -738,6 +738,10 @@ $(document).ready(function () {
             name: "Michael Scott",
         },
         {
+            quote: "There's beauty in ordinary things... but isn't that the point.",
+            name: "Pam Beesly Halpert",
+        },
+        {
             quote: "Let's get one thing clear!<br>I don't give a fuck about you guys...<br>But I do care!",
             name: "Zayn Ejaz"
         },
