@@ -746,6 +746,10 @@ $(document).ready(function () {
             name: "Jim Halpert"
         },
         {
+            quote: "No matter how you get there or where you end up, human beings have this miraculous gift to make that place home.",
+            name: "Creed Bratton"
+        },
+        {
             quote: "Let's get one thing clear!<br>I don't give a fuck about you guys...<br>But I do care!",
             name: "Zayn Ejaz"
         },
