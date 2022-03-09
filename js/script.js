@@ -742,6 +742,10 @@ $(document).ready(function () {
             name: "Pam Beesly Halpert",
         },
         {
+            quote: "Imagine going back and watching a tape of your life. You could see yourself change and make mistakes and grow up. You could watch yourself fall in love, watch yourself become a husband, become a father. That's... an amazing gift.",
+            name: "Jim Halpert"
+        },
+        {
             quote: "Let's get one thing clear!<br>I don't give a fuck about you guys...<br>But I do care!",
             name: "Zayn Ejaz"
         },
