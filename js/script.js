@@ -754,6 +754,10 @@ $(document).ready(function () {
             name: "The Emperor, 'Mulan'"
         },
         {
+            quote: "Don't let anyone ever make you feel like you don't deserve what you want.",
+            name: "Heath Ledger"
+        },
+        {
             quote: "Let's get one thing clear!<br>I don't give a fuck about you guys...<br>But I do care!",
             name: "Zayn Ejaz"
         },
