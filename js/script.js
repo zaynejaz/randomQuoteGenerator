@@ -762,6 +762,10 @@ $(document).ready(function () {
             name: "Oscar Wilde"
         },
         {
+            quote: "In three words I can sum up everything I've learning about like: It goes on.",
+            name: "Robert Frost"
+        },
+        {
             quote: "Let's get one thing clear!<br>I don't give a fuck about you guys...<br>But I do care!",
             name: "Zayn Ejaz"
         },
