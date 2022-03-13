@@ -766,6 +766,10 @@ $(document).ready(function () {
             name: "Robert Frost"
         },
         {
+            quote: "It is better to be hated for what you are than to be loved for what you are not.",
+            name: "Andre Gide"
+        },
+        {
             quote: "Let's get one thing clear!<br>I don't give a fuck about you guys...<br>But I do care!",
             name: "Zayn Ejaz"
         },
