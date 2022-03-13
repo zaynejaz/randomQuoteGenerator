@@ -758,6 +758,10 @@ $(document).ready(function () {
             name: "Heath Ledger"
         },
         {
+            quote: "To live live is the rarest thing in the world. Most people exist, that is all.",
+            name: "Oscar Wilde"
+        },
+        {
             quote: "Let's get one thing clear!<br>I don't give a fuck about you guys...<br>But I do care!",
             name: "Zayn Ejaz"
         },
