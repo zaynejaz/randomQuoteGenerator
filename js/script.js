@@ -770,6 +770,10 @@ $(document).ready(function () {
             name: "Andre Gide"
         },
         {
+            quote: "I'm not afraid of dying, cause I'd die for my kids.",
+            name: "King Zøg"
+        },
+        {
             quote: "Let's get one thing clear!<br>I don't give a fuck about you guys...<br>But I do care!",
             name: "Zayn Ejaz"
         },
