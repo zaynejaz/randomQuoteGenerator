@@ -778,6 +778,10 @@ $(document).ready(function () {
             name: "Niki Lauda"
         },
         {
+            quote: "The way it works is, you do the thing you're scared shitless of, and you get the courage after you do it, not before you do it.",
+            name: "Archie Gates"
+        },
+        {
             quote: "Let's get one thing clear!<br>I don't give a fuck about you guys...<br>But I do care!",
             name: "Zayn Ejaz"
         },
