@@ -774,6 +774,10 @@ $(document).ready(function () {
             name: "King Zøg"
         },
         {
+            quote: "A wise man can learn more from his enemies than a fool can learn from his friends.",
+            name: "Niki Lauda"
+        },
+        {
             quote: "Let's get one thing clear!<br>I don't give a fuck about you guys...<br>But I do care!",
             name: "Zayn Ejaz"
         },
