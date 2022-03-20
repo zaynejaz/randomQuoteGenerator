@@ -782,6 +782,10 @@ $(document).ready(function () {
             name: "Archie Gates"
         },
         {
+            quote: "Just because we didn't lose, doesn't me we won.",
+            name: "Gerald \"Sully\" Sullivan"
+        },
+        {
             quote: "Let's get one thing clear!<br>I don't give a fuck about you guys...<br>But I do care!",
             name: "Zayn Ejaz"
         },
