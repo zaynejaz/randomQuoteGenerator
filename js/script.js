@@ -786,6 +786,10 @@ $(document).ready(function () {
             name: "Gerald \"Sully\" Sullivan"
         },
         {
+            quote: "Don't let what other people think of you define who you are.",
+            name: "Jake Pentecost"
+        },
+        {
             quote: "Let's get one thing clear!<br>I don't give a fuck about you guys...<br>But I do care!",
             name: "Zayn Ejaz"
         },
