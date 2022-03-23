@@ -790,6 +790,10 @@ $(document).ready(function () {
             name: "Jake Pentecost"
         },
         {
+            quote: "There is no path to happiness, happiness is the path",
+            name: "Buddha"
+        },
+        {
             quote: "Let's get one thing clear!<br>I don't give a fuck about you guys...<br>But I do care!",
             name: "Zayn Ejaz"
         },
