@@ -805,10 +805,10 @@ $(document).ready(function () {
             quote: "Happiness depends on ourselves.",
             name: "Aristotle"
         },
-        // {
-        //     quote: "",
-        //     name: ""
-        // },
+        {
+            quote: "A great obstacle to happiness it to expect too much happiness.",
+            name: "Bernard de Fontenelle"
+        },
         // {
         //     quote: "",
         //     name: ""
