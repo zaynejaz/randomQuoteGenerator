@@ -798,6 +798,15 @@ $(document).ready(function () {
             name: "Gabriel García Márquez"
         },
         {
+            quote: "Happiness is not the absence of problems, its the ability to deal with them.",
+            name: "Steve Maraboli"
+        },
+        // {
+        //     quote: "",
+        //     name: ""
+        // },
+
+        {
             quote: "Let's get one thing clear!<br>I don't give a fuck about you guys...<br>But I do care!",
             name: "Zayn Ejaz"
         },
