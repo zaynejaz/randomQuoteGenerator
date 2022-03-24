@@ -801,6 +801,42 @@ $(document).ready(function () {
             quote: "Happiness is not the absence of problems, its the ability to deal with them.",
             name: "Steve Maraboli"
         },
+        {
+            quote: "Happiness depends on ourselves.",
+            name: "Aristotle"
+        },
+        // {
+        //     quote: "",
+        //     name: ""
+        // },
+        // {
+        //     quote: "",
+        //     name: ""
+        // },
+        // {
+        //     quote: "",
+        //     name: ""
+        // },
+        // {
+        //     quote: "",
+        //     name: ""
+        // },
+        // {
+        //     quote: "",
+        //     name: ""
+        // },
+        // {
+        //     quote: "",
+        //     name: ""
+        // },
+        // {
+        //     quote: "",
+        //     name: ""
+        // },
+        // {
+        //     quote: "",
+        //     name: ""
+        // },
         // {
         //     quote: "",
         //     name: ""
