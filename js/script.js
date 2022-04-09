@@ -813,10 +813,10 @@ $(document).ready(function () {
             quote: "Time is money, money is living, so we are living with the disease.",
             name: "Anonymous"
         },
-        // {
-        //     quote: "",
-        //     name: ""
-        // },
+        {
+            quote: "We learn our greatest lessons when we pay a heavy price.",
+            name: "Captain Saru"
+        },
         // {
         //     quote: "",
         //     name: ""
