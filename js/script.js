@@ -817,10 +817,10 @@ $(document).ready(function () {
             quote: "We learn our greatest lessons when we pay a heavy price.",
             name: "Captain Saru"
         },
-        // {
-        //     quote: "",
-        //     name: ""
-        // },
+        {
+            quote: "You can't will everything until you've lost everything.",
+            name: "Optimus Prime"
+        },
         // {
         //     quote: "",
         //     name: ""
