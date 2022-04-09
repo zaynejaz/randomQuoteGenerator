@@ -825,6 +825,18 @@ $(document).ready(function () {
             quote: "Every act matters.",
             name: "Amenadiel"
         },
+        {
+            quote: "Ask God to build a mountain, be ready to wake up next to a shovel.",
+            name: "Ismael Zambada García"
+        },
+        // {
+        //     quote: "",
+        //     name: ""
+        // },
+        // {
+        //     quote: "",
+        //     name: ""
+        // },
         // {
         //     quote: "",
         //     name: ""
