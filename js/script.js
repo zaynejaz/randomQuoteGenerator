@@ -821,10 +821,10 @@ $(document).ready(function () {
             quote: "You can't will everything until you've lost everything.",
             name: "Optimus Prime"
         },
-        // {
-        //     quote: "",
-        //     name: ""
-        // },
+        {
+            quote: "Every act matters.",
+            name: "Amenadiel"
+        },
         // {
         //     quote: "",
         //     name: ""
