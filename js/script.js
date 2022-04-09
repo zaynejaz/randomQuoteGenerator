@@ -809,10 +809,10 @@ $(document).ready(function () {
             quote: "A great obstacle to happiness it to expect too much happiness.",
             name: "Bernard de Fontenelle"
         },
-        // {
-        //     quote: "",
-        //     name: ""
-        // },
+        {
+            quote: "Time is money, money is living, so we are living with the disease.",
+            name: "Anonymous"
+        },
         // {
         //     quote: "",
         //     name: ""
